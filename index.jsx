@@ -66,7 +66,4 @@ var MdEditor = React.createClass({
     }
 });
 
-React.render(
-  <MdEditor/>,
-  document.getElementById('MdEditor')
-);
+
